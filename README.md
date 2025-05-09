@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Aabhaskhandelwal/Aabhaskhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my very first project on GitHub. I'm just getting started with coding and learning how things work here.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- I'm a beginner learning to code.
+- I'm excited to explore programming and build cool stuff in the future.
+- This project is part of my learning journey.
+
+---
+
+## 📁 What's in this Project?
+
+Right now, this project might not have much code, but it's a place where I'll practice and grow.
+
+---
+
+## 💡 Why I Made This
+
+To get comfortable with:
+
+- Using GitHub
+- Writing a README file
+- Making and managing my own projects
+
+---
+
+## 📚 What I'm Learning
+
+- Basic coding (like HTML, CSS, Python, etc.)
+- How to use GitHub
+- How to build projects step-by-step
+
+---

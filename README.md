@@ -30,7 +30,7 @@ To get comfortable with:
 
 ## 📚 What I'm Learning
 
-- Basic coding (like HTML, CSS, Python, etc.)
+- Basic coding (like HTML,CSS,Python,JavaScript etc.)
 - How to use GitHub
 - How to build projects step-by-step
 

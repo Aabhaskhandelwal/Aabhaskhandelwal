@@ -14,7 +14,7 @@ This is my very first project on GitHub. I'm just getting started with coding an
 
 ## 📚 What I'm Learning
 
-- Basic coding (like HTML,CSS,Python,JavaScript etc.)
+- Python for data science,c++ for DSA
 - How to use GitHub
 - How to build projects step-by-step
 

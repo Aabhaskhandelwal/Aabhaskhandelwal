@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I play Piano and Guitar**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

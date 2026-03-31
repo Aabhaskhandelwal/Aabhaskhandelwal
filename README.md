@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aabhas Khandelwal</h1>
-<h3 align="center">CS Sophomore · Building toward AI/ML Engineering</h3>
+<h3 align="center">CS Sophomore · Building toward Data science,AI Engineering</h3>
 
-- Learning **Machine Learning, NLP, and full-stack development**
+- Learning **Machine Learning, RAG and NLP** through Projects
 - Looking to collaborate on **ML / AI projects**
-- About Me: **I am an F-1 enthusiast and I can play the Piano and Guitar**
+- About Me: **I am an F-1 enthusiast and I also play the Piano and Guitar**
 
 ---
 
